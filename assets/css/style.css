@@ -857,6 +857,9 @@ a {
   line-height: 46px;
   border-radius: 4px;
   cursor: pointer;
+  border: none;
+  color: #fff;
+  font-size: 1.4rem;
 }
 .footer .rectangle {
   margin-top: 28px;
