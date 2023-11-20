@@ -858,3 +858,15 @@ a {
   border-radius: 4px;
   cursor: pointer;
 }
+.footer .rectangle {
+  margin-top: 28px;
+  height: 1px;
+  background: #406181;
+}
+.footer__copy {
+  margin-top: 28px;
+  color: #aab3ba;
+  text-align: center;
+  font-size: 1.4rem;
+  line-height: 1.85;
+}
